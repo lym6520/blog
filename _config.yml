@@ -8,7 +8,7 @@
 # Site settings
 title: 脉兜
 brief-intro: 个人学习博客
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://lym6520.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
