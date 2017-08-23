@@ -2,176 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e8c7d9-6b76-4b29-96da-042a685ef2ab" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-06-blog-begin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-08-r.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-09-python.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-10-ML&amp;DM.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-11-data-science.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-09-15-R-basic-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-08-excel.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-10-coming-to-new-begin.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-15-web-construct.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-16-RNA-seq.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-18-trim-galore.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-11-25-CLIP-CHIP.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-03-python-basic-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-05-python-basic-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-07-python-basic-3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-08-python-basic-4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-10-R-basic-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-11-R-basic-3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-15-shell.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-21-sta-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-23-sta-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-25-sta-3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-26-sta-4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2016-12-27-sta-5.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-01-01-my-2016-2017.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-01-02-sta-6.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-01-03-sta-7.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-01-06-sta-8.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-02-14-sl-regression.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-02-17-regression-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-02-20-none-para.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-05-learn-more-study-less.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-15-dm-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-17-dm-2.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-20-sta-all.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-25-dm-3.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-30-dm-4.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-03-31-dm-5.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-06-dm-6.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-15-numpy.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-22-Pandas.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-04-27-matplotlib.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-04-sql.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-20-jdata-predeal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-25-jdata-mysql.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-05-28-lib-1.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/2017-06-13-python3-all.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1609/160906-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1609/160911-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1609/160915-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1609/160915-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161106-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161106-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161108-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161115-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161125-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1611/161125-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161203-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161205-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161205-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161205-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161207-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161207-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161208-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161208-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161210-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161210-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161211-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161211-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161215-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161215-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161215-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161221-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161221-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161223-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161223-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161225-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161225-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161226-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1612/161227-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1701/170101-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1701/170102-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1701/170103-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1701/170106-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170214-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170214-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170217-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170217-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170220-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1702/170220-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170305-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170310-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170310-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170317-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170317-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170320-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170325-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170325-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170325-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170330-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170330-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170331-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1703/170331-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170406-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170415-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170415-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170415-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170422-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170427-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1704/170427-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170504-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/170528-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/jdata/0520-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/jdata/0520-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/jdata/0520-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/jdata/0520-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1705/jdata/0520_output_20_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-10.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-11.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-12.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-13.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-14.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-15.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-6.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-7.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-8.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170613-9.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170621-1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170621-2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170621-3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_posts/Pic/1706/170621-4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/CommonJS.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/ES2015-note.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/WebSocket.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/angularJS-directive.md" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/0archives.html" afterPath="$PROJECT_DIR$/page/0archives.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/1category.html" afterPath="$PROJECT_DIR$/page/1category.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2tags.html" afterPath="$PROJECT_DIR$/page/2tags.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -181,90 +19,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1522">
-              <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+            <state relative-caret-position="195">
+              <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_layouts/default.html">
+      <file leaf-file-name="4about.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/4about.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="footer.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0archives.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/page/0archives.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="content.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/content.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="234">
-              <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pageContent.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/pageContent.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1462">
-              <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="0-template.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/0-template.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+            <state relative-caret-position="405">
+              <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
               <folding />
             </state>
           </provider>
@@ -273,14 +43,96 @@
       <file leaf-file-name="3collections.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/page/3collections.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+            <state relative-caret-position="528">
+              <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_includes/header.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2tags.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/2tags.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+              <folding>
+                <marker date="1503452811000" expanded="false" signature="259:303" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1category.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/1category.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="161">
+              <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+              <folding>
+                <marker date="1503452797000" expanded="false" signature="274:318" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0archives.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/page/0archives.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-08-23-git.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-08-23-git.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2017-06-21-spider.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2017-06-21-spider.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="0-template.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/0-template.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>busuanzi_value_site_pv</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -290,6 +142,10 @@
       <list>
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/page/1category.html" />
+        <option value="$PROJECT_DIR$/page/2tags.html" />
+        <option value="$PROJECT_DIR$/page/0archives.html" />
+        <option value="$PROJECT_DIR$/_posts/2017-08-23-git.md" />
       </list>
     </option>
   </component>
@@ -329,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -355,18 +212,12 @@
             <path>
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="blog" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="blog" type="462c0819:PsiDirectoryNode" />
               <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -401,25 +252,26 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24964234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532189" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -434,70 +286,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/page/1category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="19" column="41" lean-forward="true" selection-start-line="19" selection-start-column="41" selection-end-line="19" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/CommonJS.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/ES2015-note.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4047">
-          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_drafts/WebSocket.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/comments.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-577">
-          <caret line="29" column="18" lean-forward="true" selection-start-line="29" selection-start-column="18" selection-end-line="29" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/_demo.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -510,15 +298,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -526,7 +305,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -534,7 +312,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -542,9 +319,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -552,7 +326,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -560,33 +333,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="533">
           <caret line="141" column="19" lean-forward="true" selection-start-line="141" selection-start-column="19" selection-end-line="141" selection-end-column="19" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/page/4about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="17" lean-forward="true" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -594,23 +340,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/tag.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/category.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,18 +347,31 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="901">
-          <caret line="61" column="19" lean-forward="false" selection-start-line="61" selection-start-column="14" selection-end-line="61" selection-end-column="19" />
-          <folding />
+        <state relative-caret-position="218">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/content.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/pageContent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1462">
+          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2016-09-08-r.md" />
     <entry file="file://$PROJECT_DIR$/feed.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -638,64 +380,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/2tags.html">
+    <entry file="file://$PROJECT_DIR$/_drafts/angularJS-directive.md" />
+    <entry file="file://$PROJECT_DIR$/_drafts/CommonJS.md" />
+    <entry file="file://$PROJECT_DIR$/_drafts/ES2015-note.md" />
+    <entry file="file://$PROJECT_DIR$/_drafts/WebSocket.md" />
+    <entry file="file://$PROJECT_DIR$/_includes/tag.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="26" lean-forward="true" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding />
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="39" lean-forward="false" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/pageContent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1462">
-          <caret line="25" column="32" lean-forward="false" selection-start-line="25" selection-start-column="32" selection-end-line="25" selection-end-column="32" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/0-template.txt">
+    <entry file="file://$PROJECT_DIR$/_sass/_post.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
-          <caret line="33" column="6" lean-forward="true" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+          <caret line="31" column="8" lean-forward="false" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/page/3collections.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="7" lean-forward="true" selection-start-line="35" selection-start-column="7" selection-end-line="35" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/_layouts/post.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1522">
-          <caret line="21" column="40" lean-forward="true" selection-start-line="21" selection-start-column="40" selection-end-line="21" selection-end-column="40" />
+        <state relative-caret-position="465">
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="41" lean-forward="false" selection-start-line="24" selection-start-column="41" selection-end-line="24" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/comments.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="11" selection-end-line="0" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="26" column="11" lean-forward="true" selection-start-line="26" selection-start-column="11" selection-end-line="26" selection-end-column="11" />
           <folding />
         </state>
       </provider>
@@ -708,29 +452,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+    <entry file="file://$PROJECT_DIR$/_includes/category.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2016-09-08-r.md">
+    <entry file="file://$PROJECT_DIR$/_layouts/page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="17" column="27" lean-forward="false" selection-start-line="17" selection-start-column="27" selection-end-line="17" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="25" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/4about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/1category.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="13" column="11" lean-forward="false" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+          <folding>
+            <marker date="1503452797000" expanded="false" signature="274:318" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/2tags.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="12" lean-forward="false" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <folding>
+            <marker date="1503452811000" expanded="false" signature="259:303" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/page/3collections.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="54" column="10" lean-forward="false" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/page/0archives.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="53" column="52" lean-forward="true" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#small#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="225">
+          <caret line="15" column="8" lean-forward="false" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/0-template.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="22" lean-forward="false" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-06-21-spider.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="19" lean-forward="true" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2017-08-23-git.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
