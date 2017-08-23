@@ -7,7 +7,7 @@
 
 # Site settings
 title: 脉兜
-brief-intro: 个人学习博客
+brief-intro: 学习笔记
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://lym6520.github.io" # the base hostname & protocol for your site
 
