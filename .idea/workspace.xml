@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a4e8c7d9-6b76-4b29-96da-042a685ef2ab" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/CommonJS.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/ES2015-note.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/WebSocket.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/_drafts/angularJS-directive.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/0archives.html" afterPath="$PROJECT_DIR$/page/0archives.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/1category.html" afterPath="$PROJECT_DIR$/page/1category.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/page/2tags.html" afterPath="$PROJECT_DIR$/page/2tags.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2017-08-23-git.md" afterPath="$PROJECT_DIR$/_posts/2017-08-23-git.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,8 +91,8 @@
       <file leaf-file-name="2017-08-23-git.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2017-08-23-git.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
-              <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+            <state relative-caret-position="258">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -554,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-08-23-git.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="178" column="0" lean-forward="true" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        <state relative-caret-position="258">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
